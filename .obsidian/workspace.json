@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Victims/1 - Tom Webber.md",
+                "file": "Organisations/Nex Machina Commune/! Nex Machina Commune.md",
                 "mode": "preview",
                 "source": true
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Victims/1 - Tom Webber.md"
+                "file": "Organisations/Nex Machina Commune/! Nex Machina Commune.md"
               }
             }
           },
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Victims/1 - Tom Webber.md",
+                "file": "Organisations/Nex Machina Commune/! Nex Machina Commune.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Victims/1 - Tom Webber.md",
+                "file": "Organisations/Nex Machina Commune/! Nex Machina Commune.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,8 +163,10 @@
   },
   "active": "d3caf8c59039b12f",
   "lastOpenFiles": [
-    "Organisations/ANTEATR/ANT.md",
+    "! attachments/nex_machina_logo_rgb.png",
+    "! attachments/nex_machina_logo.png.url",
     "Characters/Victims/1 - Tom Webber.md",
+    "Organisations/ANTEATR/ANT.md",
     "Characters/ANTEATR Members",
     "Characters/Nex Machina Members",
     "! attachments/tom_webber_downscale.png",
@@ -181,7 +183,6 @@
     "Characters/Victims",
     "Characters/ANTEATR Members/ANTs",
     "Gaia Scrolls/! Gaia Scrolls.md",
-    "Characters",
     "Organisations/ANTEATR/! ANTEATR.md",
     "Overview.md",
     "Gaia Scrolls/3 - Missionaries.md",
