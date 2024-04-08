@@ -11,14 +11,11 @@
             "id": "d3caf8c59039b12f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Series Timeline.canvas",
-                "viewState": {
-                  "x": 2209,
-                  "y": -160,
-                  "zoom": -1.7830605492020455
-                }
+                "file": "Overview.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -102,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Series Timeline.canvas"
+                "file": "Overview.md"
               }
             }
           },
@@ -123,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Series Timeline.canvas",
+                "file": "Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Series Timeline.canvas",
+                "file": "Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,8 +163,8 @@
   },
   "active": "d3caf8c59039b12f",
   "lastOpenFiles": [
-    "Organisations/Nex Machina Commune/! Nex Machina Commune.md",
     "Series Timeline.canvas",
+    "Organisations/Nex Machina Commune/! Nex Machina Commune.md",
     "Characters/Nex Machina/ANTs/ANT-4.md",
     "Characters/Nex Machina/ANTs/ANT-1.md",
     "Characters/Nex Machina/ANTs/ANT-2.md",
