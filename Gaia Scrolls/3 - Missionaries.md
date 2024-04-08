@@ -1,0 +1,1 @@
+(Details the types of Ants - GAIA gives them more enticing names)
