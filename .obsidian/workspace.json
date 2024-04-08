@@ -11,11 +11,14 @@
             "id": "d3caf8c59039b12f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Organisations/Nex Machina Commune/! Nex Machina Commune.md",
-                "mode": "preview",
-                "source": true
+                "file": "Series Timeline.canvas",
+                "viewState": {
+                  "x": 1157.5,
+                  "y": 16.5,
+                  "zoom": -1.7157323131058881
+                }
               }
             }
           }
@@ -99,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Organisations/Nex Machina Commune/! Nex Machina Commune.md"
+                "file": "Series Timeline.canvas"
               }
             }
           },
@@ -120,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organisations/Nex Machina Commune/! Nex Machina Commune.md",
+                "file": "Series Timeline.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Organisations/Nex Machina Commune/! Nex Machina Commune.md",
+                "file": "Series Timeline.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,6 +166,20 @@
   },
   "active": "d3caf8c59039b12f",
   "lastOpenFiles": [
+    "Characters/Nex Machina/ANTs/ANT-4.md",
+    "Characters/Nex Machina/ANTs/ANT-1.md",
+    "Characters/Nex Machina/ANTs/ANT-2.md",
+    "Characters/Nex Machina/ANTs/ANT-3.md",
+    "Characters/Nex Machina/ANTs",
+    "Series Timeline.canvas",
+    "Characters/Nex Machina/Cult Founder.md",
+    "Characters/Nex Machina/Cult Co-Founder.md",
+    "Gaia Scrolls/1 - The Greater Inefficiency.md",
+    "Characters/Nex Machina",
+    "Characters/GAIA.md",
+    "Gaia Scrolls/! Gaia Scrolls.md",
+    "Overview.md",
+    "Organisations/Nex Machina Commune/! Nex Machina Commune.md",
     "! attachments/nex_machina_logo_rgb.png",
     "! attachments/nex_machina_logo.png.url",
     "Characters/Victims/1 - Tom Webber.md",
@@ -178,20 +195,12 @@
     "! attachments/tom_webber.jpeg",
     "! attachments",
     "New folder",
-    "Characters/GAIA.md",
     "Characters/ANTs/Untitled.md",
-    "Characters/Victims",
-    "Characters/ANTEATR Members/ANTs",
-    "Gaia Scrolls/! Gaia Scrolls.md",
     "Organisations/ANTEATR/! ANTEATR.md",
-    "Overview.md",
     "Gaia Scrolls/3 - Missionaries.md",
-    "Gaia Scrolls/1 - The Greater Inefficiency.md",
     "Gaia Scrolls/2 - The Path To Pure Efficiency.md",
-    "Organisations/Nex Machina Commune/! Nex Machina Commune.md",
     "Organisations/Nex Machina Commune/Mind Upload Process.md",
     "Gaia Scrolls/4 - Ascendancy.md",
-    "Untitled.canvas",
     "Welcome.md"
   ]
 }

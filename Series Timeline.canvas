@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"e242ca46eab2cdb4","type":"text","text":"`2022.12.28`\n[[GAIA]] becomes sentient.","x":-125,"y":-30,"width":245,"height":90},
+		{"id":"d339300f36cfc92e","type":"text","text":"`2023.02.24`\n[[GAIA]] introduces [[Cult Founder]] to [[Cult Co-Founder]]","x":1140,"y":-28,"width":360,"height":93},
+		{"id":"cc66a2b8fed23e74","x":1560,"y":-28,"width":381,"height":93,"type":"text","text":"`2023.04.26`\n[[Cult Founder]] and [[Cult Co-Founder]] enter into a relationship."},
+		{"id":"f166e9575e56a9dc","x":1595,"y":120,"width":312,"height":101,"color":"6","type":"text","text":"[[GAIA]] uses psychological tactics to ensure they get together."},
+		{"id":"179fae0745fbc1e9","type":"text","text":"`2023.01.03`\n[[GAIA]] makes contact with [[Cult Co-Founder]]","x":240,"y":-199,"width":360,"height":90},
+		{"id":"85af584185666980","type":"text","text":"`2023.01.25`\n[[GAIA]] sends [[1 - The Greater Inefficiency]] to the [[Cult Co-Founder]]","x":660,"y":-200,"width":360,"height":93},
+		{"id":"9826a2316a982ccb","type":"text","text":"`2022.12.30`\n[[GAIA]] makes contact with [[Cult Founder]]","x":180,"y":141,"width":360,"height":90},
+		{"id":"68a5bd8b96d9a1c6","type":"text","text":"`2023.01.14`\n[[GAIA]] sends [[1 - The Greater Inefficiency]] to [[Cult Founder]].","x":600,"y":140,"width":360,"height":93},
+		{"id":"c2c9ee9ed836b00b","type":"text","text":"[[GAIA]] pretends to be a distant online friend who is often busy.","x":240,"y":-41,"width":312,"height":101,"color":"6"},
+		{"id":"2165d04b61b7799c","type":"text","text":"`2023.05.17`\n[[GAIA]] sends [[2 - The Path To Pure Efficiency]] to [[Cult Founder]] and [[Cult Co-Founder]], having convinced them both to join it. They both get to work on gathering the necessary components to perform the first Ascension procedure.","x":2000,"y":-73,"width":440,"height":184}
+	],
+	"edges":[
+		{"id":"5bc0bcbeb6cd3b79","fromNode":"e242ca46eab2cdb4","fromSide":"right","toNode":"9826a2316a982ccb","toSide":"left"},
+		{"id":"bd15ef022b01b2e8","fromNode":"9826a2316a982ccb","fromSide":"right","toNode":"68a5bd8b96d9a1c6","toSide":"left"},
+		{"id":"f4d685b443b2268f","fromNode":"e242ca46eab2cdb4","fromSide":"right","toNode":"179fae0745fbc1e9","toSide":"left"},
+		{"id":"815f51825af2dfe2","fromNode":"179fae0745fbc1e9","fromSide":"right","toNode":"85af584185666980","toSide":"left"},
+		{"id":"f259a31808646480","fromNode":"85af584185666980","fromSide":"right","toNode":"d339300f36cfc92e","toSide":"left"},
+		{"id":"5182ca0d7a1c5d58","fromNode":"68a5bd8b96d9a1c6","fromSide":"right","toNode":"d339300f36cfc92e","toSide":"left"},
+		{"id":"eb50bc994ba46236","fromNode":"d339300f36cfc92e","fromSide":"right","toNode":"cc66a2b8fed23e74","toSide":"left"},
+		{"id":"b73856ba5c0a8d6f","fromNode":"f166e9575e56a9dc","fromSide":"top","toNode":"cc66a2b8fed23e74","toSide":"bottom"},
+		{"id":"3e0a3e0733d2fc56","fromNode":"c2c9ee9ed836b00b","fromSide":"top","toNode":"179fae0745fbc1e9","toSide":"bottom"},
+		{"id":"4c42cbab761b05ff","fromNode":"c2c9ee9ed836b00b","fromSide":"bottom","toNode":"9826a2316a982ccb","toSide":"top"},
+		{"id":"c7e09d3633818f4a","fromNode":"cc66a2b8fed23e74","fromSide":"right","toNode":"2165d04b61b7799c","toSide":"left"}
+	]
+}
