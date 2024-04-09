@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c1b58f8dae5722d4",
+        "id": "f98213b90e0ba0cc",
         "type": "tabs",
         "children": [
           {
-            "id": "3acb7e35a3c6fb8a",
+            "id": "b897651b6de4fd4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -76,24 +76,8 @@
     "type": "split",
     "children": [
       {
-        "id": "1825b19bde2167a2",
-        "type": "tabs",
-        "dimension": 60,
-        "children": [
-          {
-            "id": "f957652b2118c606",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
         "id": "befb013850e6882c",
         "type": "tabs",
-        "dimension": 40,
         "children": [
           {
             "id": "e1d920ee5854e8c0",
@@ -162,12 +146,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3acb7e35a3c6fb8a",
+  "active": "b897651b6de4fd4a",
   "lastOpenFiles": [
-    "Series Timeline.canvas",
+    "Characters/GAIA.md",
     "! scripts/1 - A.N.T.E.A.T.R Briefing.md",
-    "! scripts",
     "Overview.md",
+    "Series Timeline.canvas",
+    "! scripts",
     "Organisations/ANTEATR/! ANTEATR.md",
     "! attachments/anteatr_logo.png",
     "! attachments/anteatr_logo_white.png",
@@ -194,7 +179,6 @@
     "! attachments/tom_webber_machine.png",
     "! attachments/tom_webber.png",
     "! attachments/tom_webber.jpeg",
-    "Characters/GAIA.md",
     "Characters/ANTs/Untitled.md",
     "Gaia Scrolls/! Gaia Scrolls.md",
     "Gaia Scrolls/3 - Missionaries.md",
