@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0b2b1b9d44f420b0",
+        "id": "81d14cf8bfd8947d",
         "type": "tabs",
         "children": [
           {
-            "id": "d3caf8c59039b12f",
+            "id": "f957652b2118c606",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organisations/Nex Machina Commune/! Nex Machina Commune.md",
-                "mode": "preview",
+                "file": "Overview.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -76,20 +76,6 @@
     "type": "split",
     "children": [
       {
-        "id": "ace62ccc066fc6a3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c73f39c77e0e201f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
         "id": "befb013850e6882c",
         "type": "tabs",
         "children": [
@@ -99,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Organisations/Nex Machina Commune/! Nex Machina Commune.md"
+                "file": "Overview.md"
               }
             }
           },
@@ -120,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organisations/Nex Machina Commune/! Nex Machina Commune.md",
+                "file": "Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Organisations/Nex Machina Commune/! Nex Machina Commune.md",
+                "file": "Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +147,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d3caf8c59039b12f",
+  "active": "f957652b2118c606",
   "lastOpenFiles": [
     "! attachments/nex_machina_logo_rgb.png",
     "! attachments/nex_machina_logo.png.url",
