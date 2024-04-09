@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Overview.md",
+                "file": "! scripts/1 - A.N.T.E.A.T.R Briefing.md",
                 "mode": "preview",
                 "source": true
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Overview.md"
+                "file": "! scripts/1 - A.N.T.E.A.T.R Briefing.md"
               }
             }
           },
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Overview.md",
+                "file": "! scripts/1 - A.N.T.E.A.T.R Briefing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Overview.md",
+                "file": "! scripts/1 - A.N.T.E.A.T.R Briefing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,9 +164,11 @@
   },
   "active": "3acb7e35a3c6fb8a",
   "lastOpenFiles": [
-    "Organisations/ANTEATR/! ANTEATR.md",
-    "Overview.md",
     "Series Timeline.canvas",
+    "! scripts/1 - A.N.T.E.A.T.R Briefing.md",
+    "! scripts",
+    "Overview.md",
+    "Organisations/ANTEATR/! ANTEATR.md",
     "! attachments/anteatr_logo.png",
     "! attachments/anteatr_logo_white.png",
     "! attachments/nex_machina_logo_rgb.png",
@@ -179,7 +181,6 @@
     "! attachments/~ai-c713c9dc-820a-41e6-9323-b4edc0bdda0b_.tmp",
     "! attachments/A9Rjk8i5_18xyw6g_h3c.tmp",
     "! attachments/A9R1m28k09_1mczlm6_5k0.tmp",
-    "! attachments/~ai-362cfda2-4b27-46f6-8f17-6201cf401c6a_.tmp",
     "conflict-files-obsidian-git.md",
     "Characters/Nex Machina/ANTs/ANT-4.md",
     "Characters/Nex Machina/ANTs/ANT-3.md",
