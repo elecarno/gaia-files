@@ -11,14 +11,11 @@
             "id": "3acb7e35a3c6fb8a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Series Timeline.canvas",
-                "viewState": {
-                  "x": 2209,
-                  "y": -160,
-                  "zoom": -2.1325670089560678
-                }
+                "file": "Organisations/ANTEATR/! ANTEATR.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -104,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Series Timeline.canvas"
+                "file": "Organisations/ANTEATR/! ANTEATR.md"
               }
             }
           },
@@ -125,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Series Timeline.canvas",
+                "file": "Organisations/ANTEATR/! ANTEATR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Series Timeline.canvas",
+                "file": "Organisations/ANTEATR/! ANTEATR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,34 +162,36 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4e3ed3174cd98eed",
+  "active": "3acb7e35a3c6fb8a",
   "lastOpenFiles": [
     "Overview.md",
-    "conflict-files-obsidian-git.md",
     "Series Timeline.canvas",
+    "! attachments/anteatr_logo.png",
+    "! attachments/anteatr_logo_white.png",
+    "! attachments/nex_machina_logo_rgb.png",
+    "! attachments/anteatr_logo_white.png.tmp$$",
+    "! attachments/anteatr_logo.png.tmp$$",
+    "! attachments/A9R1htw6m8_1mczlma_5k0.tmp",
+    "! attachments/~ai-1b55a8a9-dd50-40a9-945f-38c7e3094242_.tmp",
+    "! attachments/A9Ru276br_18xyw6j_h3c.tmp",
+    "! attachments/A9Rkwezzm_1mczlm8_5k0.tmp",
+    "! attachments/~ai-c713c9dc-820a-41e6-9323-b4edc0bdda0b_.tmp",
+    "! attachments/A9Rjk8i5_18xyw6g_h3c.tmp",
+    "! attachments/A9R1m28k09_1mczlm6_5k0.tmp",
+    "! attachments/~ai-362cfda2-4b27-46f6-8f17-6201cf401c6a_.tmp",
+    "conflict-files-obsidian-git.md",
     "Characters/Nex Machina/ANTs/ANT-4.md",
     "Characters/Nex Machina/ANTs/ANT-3.md",
     "Characters/Nex Machina/ANTs/ANT-2.md",
     "Characters/Nex Machina/ANTs/ANT-1.md",
     "Characters/Nex Machina/Cult Founder.md",
     "Characters/Nex Machina/Cult Co-Founder.md",
-    "Characters/Nex Machina/ANTs",
-    "Characters/Nex Machina",
-    "! attachments/nex_machina_logo_rgb.png",
-    "! attachments/nex_machina_logo.png.url",
     "Characters/Victims/1 - Tom Webber.md",
     "Organisations/ANTEATR/ANT.md",
-    "Characters/ANTEATR Members",
-    "Characters/Nex Machina Members",
     "! attachments/tom_webber_downscale.png",
-    "! attachments/psC9FB.tmp",
-    "! attachments/ps6133.tmp",
     "! attachments/tom_webber_machine.png",
-    "! attachments/tom_webber_machine.psd",
     "! attachments/tom_webber.png",
     "! attachments/tom_webber.jpeg",
-    "! attachments",
-    "New folder",
     "Characters/GAIA.md",
     "Characters/ANTs/Untitled.md",
     "Gaia Scrolls/! Gaia Scrolls.md",
