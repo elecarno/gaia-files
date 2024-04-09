@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "81d14cf8bfd8947d",
+        "id": "c1b58f8dae5722d4",
         "type": "tabs",
         "children": [
           {
-            "id": "f957652b2118c606",
+            "id": "3acb7e35a3c6fb8a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Overview.md",
-                "mode": "source",
-                "source": true
+                "file": "Series Timeline.canvas",
+                "viewState": {
+                  "x": 2209,
+                  "y": -160,
+                  "zoom": -2.1325670089560678
+                }
               }
             }
           }
@@ -76,8 +79,24 @@
     "type": "split",
     "children": [
       {
+        "id": "1825b19bde2167a2",
+        "type": "tabs",
+        "dimension": 60,
+        "children": [
+          {
+            "id": "f957652b2118c606",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
         "id": "befb013850e6882c",
         "type": "tabs",
+        "dimension": 40,
         "children": [
           {
             "id": "e1d920ee5854e8c0",
@@ -85,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Overview.md"
+                "file": "Series Timeline.canvas"
               }
             }
           },
@@ -106,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Overview.md",
+                "file": "Series Timeline.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,14 +142,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Overview.md",
+                "file": "Series Timeline.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,8 +165,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f957652b2118c606",
+  "active": "4e3ed3174cd98eed",
   "lastOpenFiles": [
+    "Overview.md",
+    "conflict-files-obsidian-git.md",
+    "Series Timeline.canvas",
+    "Characters/Nex Machina/ANTs/ANT-4.md",
+    "Characters/Nex Machina/ANTs/ANT-3.md",
+    "Characters/Nex Machina/ANTs/ANT-2.md",
+    "Characters/Nex Machina/ANTs/ANT-1.md",
+    "Characters/Nex Machina/Cult Founder.md",
+    "Characters/Nex Machina/Cult Co-Founder.md",
+    "Characters/Nex Machina/ANTs",
+    "Characters/Nex Machina",
     "! attachments/nex_machina_logo_rgb.png",
     "! attachments/nex_machina_logo.png.url",
     "Characters/Victims/1 - Tom Webber.md",
@@ -166,11 +195,8 @@
     "New folder",
     "Characters/GAIA.md",
     "Characters/ANTs/Untitled.md",
-    "Characters/Victims",
-    "Characters/ANTEATR Members/ANTs",
     "Gaia Scrolls/! Gaia Scrolls.md",
     "Organisations/ANTEATR/! ANTEATR.md",
-    "Overview.md",
     "Gaia Scrolls/3 - Missionaries.md",
     "Gaia Scrolls/1 - The Greater Inefficiency.md",
     "Gaia Scrolls/2 - The Path To Pure Efficiency.md",

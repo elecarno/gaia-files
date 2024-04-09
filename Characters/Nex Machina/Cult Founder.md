@@ -1,0 +1,1 @@
+(M, A surgeon who is susceptible to manipulation due to going through a difficult time in his life).
