@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organisations/ANTEATR/! ANTEATR.md",
+                "file": "Overview.md",
                 "mode": "preview",
                 "source": true
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Organisations/ANTEATR/! ANTEATR.md"
+                "file": "Overview.md"
               }
             }
           },
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organisations/ANTEATR/! ANTEATR.md",
+                "file": "Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Organisations/ANTEATR/! ANTEATR.md",
+                "file": "Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,6 +164,7 @@
   },
   "active": "3acb7e35a3c6fb8a",
   "lastOpenFiles": [
+    "Organisations/ANTEATR/! ANTEATR.md",
     "Overview.md",
     "Series Timeline.canvas",
     "! attachments/anteatr_logo.png",
@@ -195,7 +196,6 @@
     "Characters/GAIA.md",
     "Characters/ANTs/Untitled.md",
     "Gaia Scrolls/! Gaia Scrolls.md",
-    "Organisations/ANTEATR/! ANTEATR.md",
     "Gaia Scrolls/3 - Missionaries.md",
     "Gaia Scrolls/1 - The Greater Inefficiency.md",
     "Gaia Scrolls/2 - The Path To Pure Efficiency.md",

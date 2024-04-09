@@ -1,4 +1,4 @@
-Welcome to the Gaia Files.
+Welcome to the GAIA Files.
 
 - [[! ANTEATR]]
 - [[! Nex Machina Commune]]
